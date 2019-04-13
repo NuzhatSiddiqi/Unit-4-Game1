@@ -15,7 +15,7 @@ html, body, .jumbotron {
 	color: green;
 }
 .jumbotron{
-	background-image: url("../images/dirt.jpg");
+	background-color: plum;
 }
 .img-thumbnail{
 	width: 150px;
