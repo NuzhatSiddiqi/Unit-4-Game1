@@ -1,10 +1,14 @@
+html, body, .jumbotron {
+	height: 100%
+}
+
 .jumbotron h1 {
 	font-size: 48px;
-	color: white;
+	
 }
 .jumbotron h5 {
 	font-size: 20px;
-	color: white;
+
 }
 .jumbotron p {
 	font-size: 28px;
@@ -17,4 +21,3 @@
 	width: 150px;
 	height: 150px;
 }
-font-weight: bold;

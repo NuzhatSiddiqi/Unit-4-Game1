@@ -2,7 +2,7 @@
 console.log("js for crystal game connected")
 
 //Psuedocode based on the requirements from demo video
-//List of global variables
+
 var wins = 0;
 var losses = 0;
 //Start a round with:
@@ -64,4 +64,3 @@ $(".btn-lg").on("click", function () {
         }
     });
 });
-© 2019 GitHub, Inc.
